@@ -4,7 +4,7 @@ Summary(pl):	Modu³ perla Religion
 Name:		perl-Religion
 Version:	1.04
 Release:	8
-License:	GPL
+License:	freeware
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Religion/Religion-%{version}.tar.gz
 # Source0-md5:	9e5c6edfbfc224c677089a3946bb7e27
@@ -32,7 +32,8 @@ czyni±cy takie uchwyty ³atwiejszymi do napisania i kontrolowania.
 %install
 rm -rf $RPM_BUILD_ROOT
 
-%{__make} install DESTDIR=$RPM_BUILD_ROOT
+%{__make} install \
+	DESTDIR=$RPM_BUILD_ROOT
 
 %clean
 rm -rf $RPM_BUILD_ROOT
