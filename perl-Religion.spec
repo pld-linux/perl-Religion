@@ -4,7 +4,7 @@ Summary(pl):	Modu³ Perla Religion
 Name:		perl-Religion
 Version:	1.04
 Release:	9
-License:	freeware
+License:	Freeware
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Religion/Religion-%{version}.tar.gz
 # Source0-md5:	9e5c6edfbfc224c677089a3946bb7e27
