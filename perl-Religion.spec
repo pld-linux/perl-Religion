@@ -26,7 +26,7 @@ czyni±cy takie uchwyty ³atwiejszymi do napisania i kontrolowania.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
