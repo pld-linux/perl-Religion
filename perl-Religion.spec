@@ -24,7 +24,7 @@ czyni±cy takie uchwyty ³atwiejszymi do napisania i kontrolowania.
 %setup -q -n Religion-%{version}
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 
 %install
