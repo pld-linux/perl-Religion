@@ -7,6 +7,7 @@ Release:	8
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Religion/Religion-%{version}.tar.gz
+# Source0-md5:	9e5c6edfbfc224c677089a3946bb7e27
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	perl-devel >= 5.6
 BuildArch:	noarch
