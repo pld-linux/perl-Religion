@@ -27,7 +27,7 @@ czyni±cy takie uchwyty ³atwiejszymi do napisania i kontrolowania.
 
 %build
 perl Makefile.PL
-make
+%{__make}
 
 %install
 rm -rf $RPM_BUILD_ROOT
