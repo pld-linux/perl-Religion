@@ -3,7 +3,7 @@ Summary:	Religion perl module
 Summary(pl):	Modu³ perla Religion
 Name:		perl-Religion
 Version:	1.04
-Release:	6
+Release:	7
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Religion/Religion-%{version}.tar.gz
