@@ -4,10 +4,10 @@ Summary(pl):	Modu³ perla Religion
 Name:		perl-Religion
 Version:	1.04
 Release:	3
-Copyright:	GPL
+License:	GPL
 Group:		Development/Languages/Perl
 Group(pl):	Programowanie/Jêzyki/Perl
-Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/Religion/Religion-%{version}.tar.gz
+Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/Religion/Religion-%{version}.tar.gz
 BuildRequires:	rpm-perlprov >= 3.0.3-16
 BuildRequires:	perl >= 5.005_03-14
 %requires_eq	perl
@@ -15,8 +15,8 @@ Requires:	%{perl_sitearch}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Religion - module to simplify installing die() and warn() handlers, 
-and to make such handlers easier to write and control. 
+Religion - module to simplify installing die() and warn() handlers,
+and to make such handlers easier to write and control.
 
 %description -l pl
 Religion - modu³ u³atwiaj±cy instalowanie uchwytów die() i warn() oraz
