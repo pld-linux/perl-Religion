@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Religion perl module
-Summary(pl):	Modu≥ Perla Religion
+Summary(pl.UTF-8):   Modu≈Ç Perla Religion
 Name:		perl-Religion
 Version:	1.04
 Release:	9
@@ -17,9 +17,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Religion - module to simplify installing die() and warn() handlers,
 and to make such handlers easier to write and control.
 
-%description -l pl
-Religion - modu≥ u≥atwiaj±cy instalowanie uchwytÛw die() i warn() oraz
-czyni±cy takie uchwyty ≥atwiejszymi do napisania i kontrolowania.
+%description -l pl.UTF-8
+Religion - modu≈Ç u≈ÇatwiajƒÖcy instalowanie uchwyt√≥w die() i warn() oraz
+czyniƒÖcy takie uchwyty ≈Çatwiejszymi do napisania i kontrolowania.
 
 %prep
 %setup -q -n Religion-%{version}
