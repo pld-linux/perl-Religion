@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Religion perl module
-Summary(pl.UTF-8):   Moduł Perla Religion
+Summary(pl.UTF-8):	Moduł Perla Religion
 Name:		perl-Religion
 Version:	1.04
 Release:	9
