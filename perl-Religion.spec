@@ -1,5 +1,4 @@
 %define		pdir	Religion
-%include	/usr/lib/rpm/macros.perl
 Summary:	Religion Perl module
 Summary(pl.UTF-8):	Moduł Perla Religion
 Name:		perl-Religion
